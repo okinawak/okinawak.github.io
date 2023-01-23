@@ -1,0 +1,36 @@
+.blue{
+    background-color: cornflowerblue;
+}
+img{
+    width: 1fr;
+}
+#entete{
+    height: 110px;
+    width: 1fr;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#corps{
+    width: 1fr;
+    height: 1fr;
+}
+#cote-Droit{
+height: 1fr;
+    float: right;
+    width: 4fr;
+    position: relative;
+    background-color: white;
+}
+#cote-Gauche{
+    height: 1fr;
+    float: left;
+    width: 1fr;
+    position: relative;
+    background-color: powderblue;
+}
+#pied{
+    float: left;
+    width: 100%;
+}
